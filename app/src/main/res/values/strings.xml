@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Firebase Chat App</string>
+    <string name="send">Send</string>
+    <string name="your_email">Your email</string>
+    <string name="your_password">Your password</string>
+    <string name="your_name">Your Name</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="tap_to_log_in">Tap To Log In</string>
+    <string name="signup">SignUp</string>
+    <string name="orlogin">Or, log in</string>
+    <string name="log_in">Log In</string>
+    <string name="orsignup">Or, sign up</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="user_name">User Name</string>
+</resources>
